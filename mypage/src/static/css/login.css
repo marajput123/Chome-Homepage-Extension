@@ -1,0 +1,38 @@
+.mainDiv {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 239px;
+  max-width: 355px;
+}
+
+.loginDiv {
+  min-width: 300px;
+}
+
+.inputs {
+  margin: 10px;
+}
+
+.date-div {
+  width: 90%;
+}
+
+.paper-dialog {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 239px;
+  max-width: 355px;
+  width: 355px;
+}

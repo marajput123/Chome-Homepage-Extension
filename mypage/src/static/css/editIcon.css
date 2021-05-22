@@ -1,0 +1,33 @@
+.setting-icon {
+  width: fit-content;
+  height: fit-content;
+  transform: rotate(0deg);
+  transition: transform 1s;
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.move {
+  transform: rotate(270deg);
+}
+
+.edit-show {
+  visibility: visible;
+}
+.edit-hide {
+  visibility: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  width: fit-content;
+  height: fit-content;
+  flex-direction: column;
+  position: relative;
+  right: 45px;
+}
+
+.innerContainer {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,14 @@
+.chips-subDiv {
+  margin: 10px 0px 10px 0px;
+}
+
+.chips-individual {
+  margin: 0px 5px 5px 5px;
+}
+
+.red-button {
+  background-color: red;
+}
+.green-button {
+  background-color: limegreen;
+}

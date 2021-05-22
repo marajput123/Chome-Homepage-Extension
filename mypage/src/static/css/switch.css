@@ -1,0 +1,19 @@
+.switch-theme-img {
+  height: 35px;
+  margin-bottom: 2px;
+}
+
+.switch-theme {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  width: fit-content;
+}
+
+.switch-main-div {
+  /* background-color: red; */
+  height: 50px;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+}
